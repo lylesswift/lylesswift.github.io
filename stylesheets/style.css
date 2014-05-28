@@ -1,0 +1,113 @@
+
+
+.switzerland-img {
+	position: absolute;
+	left: 422px;
+	top: 695px;
+	height:40px; 
+	width:30px;
+	border-radius: 15px;
+}
+
+.london-img {
+	position: absolute;
+	left: 309px;
+	top: 540px;
+	height:40px; 
+	width:30px;
+	border-radius: 15px;
+}
+
+.bcn-img {
+	position: absolute;
+	left: 300px;
+	top: 795px;
+	height:40px; 
+	width:30px;
+	border-radius: 15px;
+}
+
+.ibiza-img {
+	position: absolute;
+	left: 280px;
+	top: 855px;
+	height:40px; 
+	width:30px;
+	border-radius: 15px;
+}
+
+.munich-img {
+	position: absolute;
+	left: 490px;
+	top: 640px;
+	height:40px; 
+	width:30px;
+	border-radius: 15px;
+}
+
+.berlin-img {
+	position: absolute;
+	left: 500px;
+	top: 540px;
+	height:40px; 
+	width:30px;
+	border-radius: 15px;
+}
+
+.istan-img {
+	position: absolute;
+	left: 830px;
+	top: 809px;
+	height:40px; 
+	width:30px;
+	border-radius: 15px;
+}
+
+.amster-img {
+	position: absolute;
+	left: 395px;
+	top: 530px;
+	height:40px; 
+	width:30px;
+	border-radius: 15px;
+}
+
+.madrid-img {
+	position: absolute;
+	left: 180px;
+	top: 805px;
+	height:40px; 
+	width:30px;
+	border-radius: 15px;
+}
+
+
+
+
+h1 {font-size: 150%;
+	font-family: 'Indie Flower', cursive;
+	font-weight: bolder;
+	position: absolute;
+	left: 370px;
+	top: 5px;
+	}
+/*}
+h2 {font-size: 100%;
+	font-weight: lighter;
+	font-family: 'Indie Flower', cursive;
+	position: absolute;
+	left: 500px;
+	top: 5px;
+	
+}*/
+
+
+.facebook-img {
+ 	border-radius: 10px;
+ 	height: 45px; 
+ 	width: 45px;
+ 	position: absolute;
+ 	left: 965px;
+ 	top: 7px;
+}
+
